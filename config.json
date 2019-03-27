@@ -1,0 +1,115 @@
+{
+    "githubUser": "a-jackson",
+    "profile": {
+        "class": "is-primary",
+        "showLocation": true,
+        "interestTypes": {
+            "skill": {
+                "title": "Skill",
+                "colorClass": "is-info"
+            },
+            "interest": {
+                "title": "Interest",
+                "colorClass": "is-warning"
+            }
+        },
+        "interests": [
+            {
+                "title": "C#",
+                "sizeClass": "is-large",
+                "type": "skill"
+            },
+            {
+                "title": "Raspberry Pi",
+                "sizeClass": "is-small",
+                "type": "interest"
+            },
+            {
+                "title": ".Net Core",
+                "sizeClass": "is-medium",
+                "type": "skill"
+            },
+            {
+                "title": "NodeJS",
+                "sizeClass": "is-small",
+                "type": "interest"
+            },
+            {
+                "title": "ASP.Net",
+                "sizeClass": "is-large",
+                "type": "skill"
+            },
+            {
+                "title": "TypeScript",
+                "sizeClass": "is-large",
+                "type": "skill"
+            },
+            {
+                "title": "Vue",
+                "sizeClass": "is-small",
+                "type": "interest"
+            },
+            {
+                "title": "Aurelia",
+                "sizeClass": "is-small",
+                "type": "skill"
+            },
+            {
+                "title": "JavaScript",
+                "sizeClass": "is-medium",
+                "type": "skill"
+            },
+            {
+                "title": "SQL",
+                "sizeClass": "is-medium",
+                "type": "skill"
+            }
+        ]
+    },
+    "social": [
+        {
+            "service": "stack-overflow",
+            "url": "https://stackoverflow.com/users/161865/a-jackson"
+        },
+        {
+            "service": "github",
+            "url": "https://github.com/a-jackson"
+        }
+    ],
+    "sections": [
+        {
+            "title": "C#",
+            "class": "is-success",
+            "repos": [
+                "tvsorter",
+                "aeondb_dotnet",
+                "TheTvdbDotNet",
+                "pathfinding"
+            ]
+        },
+        {
+            "title": "TypeScript",
+            "class": "is-warning",
+            "repos": [
+                "temperature-monitor",
+                "github-portfolio"
+            ]
+        },
+        {
+            "title": "C",
+            "class": "is-danger",
+            "repos": [
+                "libaeondb"
+            ]
+        }
+    ],
+    "repositoryOverrides": {
+        "tvsorter": {
+            "homepage": null
+        },
+        "github-portfolio": {
+            "homepage": "https://andrewjackson.dev"
+        }
+    },
+    "externalRepositories": ["RobbieLD/github-portfolio"]
+}
