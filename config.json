@@ -91,6 +91,7 @@
             "title": "TypeScript",
             "class": "is-warning",
             "repos": [
+                "FitbitDashboard",
                 "temperature-monitor",
                 "github-portfolio"
             ]
